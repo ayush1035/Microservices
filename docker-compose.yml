@@ -1,0 +1,63 @@
+version: '3.4'
+services:
+  accountapi:
+    image: ayush1035/accountapi:latest
+    expose:
+      - "80"
+    ports:
+      - "7002:80"
+    depends_on:
+      - eurekaserver
+      - configserver
+    hostname: accountapi
+    container_name: accountapi
+  userapi:
+    image: ayush1035/userapi:latest
+    expose:
+      - "80"
+    ports:
+      - "7001:80"
+    depends_on:
+      - eurekaserver 
+    hostname: userapi
+    container_name: userapi
+  transactionsapi:
+    image: ayush1035/transactionsapi:latest
+    expose:
+      - "80"
+    ports:
+      - "7003:80"
+    depends_on:
+      - eurekaserver 
+    hostname: transactionsapi
+    container_name: transactionsapi
+  loggingapi:
+    image: ayush1035/loggingapi:latest
+    expose:
+      - "80"
+    ports:
+      - "7004:80"
+    depends_on:
+      - eurekaserver 
+    hostname: loggingapi
+    container_name: loggingapi
+  gateway:
+    image: ayush1035/gateway:latest
+    expose:
+      - "80"
+    ports:
+      - "7000:80"
+    depends_on:
+      - eurekaserver
+    container_name: gateway
+  eurekaserver:
+    image: ayush1035/eurekaserverimage:latest
+    ports:
+      - "8761:8761"
+    container_name: eurekaserver
+  configserver:
+    image: ayush1035/configserver:latest
+    ports:
+      - "8888:8888"
+    container_name: configserver
+

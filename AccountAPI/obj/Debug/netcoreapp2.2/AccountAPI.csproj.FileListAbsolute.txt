@@ -1,0 +1,14 @@
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\bin\Debug\netcoreapp2.2\AccountAPI.deps.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\bin\Debug\netcoreapp2.2\AccountAPI.runtimeconfig.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\bin\Debug\netcoreapp2.2\AccountAPI.runtimeconfig.dev.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\bin\Debug\netcoreapp2.2\AccountAPI.dll
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\bin\Debug\netcoreapp2.2\AccountAPI.pdb
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\obj\Debug\netcoreapp2.2\AccountAPI.csproj.CoreCompileInputs.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\obj\Debug\netcoreapp2.2\AccountAPI.RazorAssemblyInfo.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\obj\Debug\netcoreapp2.2\AccountAPI.RazorAssemblyInfo.cs
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\obj\Debug\netcoreapp2.2\AccountAPI.AssemblyInfoInputs.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\obj\Debug\netcoreapp2.2\AccountAPI.AssemblyInfo.cs
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\obj\Debug\netcoreapp2.2\AccountAPI.RazorTargetAssemblyInfo.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\obj\Debug\netcoreapp2.2\AccountAPI.dll
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\obj\Debug\netcoreapp2.2\AccountAPI.pdb
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\AccountAPI\obj\Debug\netcoreapp2.2\AccountAPI.csprojAssemblyReference.cache

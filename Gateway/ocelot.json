@@ -1,0 +1,89 @@
+{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/values/{userid}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "accountapi",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/account/{userid}"
+    },
+    {
+      "DownstreamPathTemplate": "/api/values/chequeBookIssue/{accId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "accountapi",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/account/chequeBookIssue/{accId}"
+    },
+    {
+      "DownstreamPathTemplate": "/api/values/chequeBookBlock/{accId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "accountapi",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/account/chequeBookBlock/{accId}"
+    },
+    {
+      "DownstreamPathTemplate": "/api/values/{accId}/branch/{bId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "accountapi",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/account/{accId}/branch/{bId}"
+    },
+    {
+      "DownstreamPathTemplate": "/api/values/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "userapi",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/user/{id}"
+    },
+    {
+      "DownstreamPathTemplate": "/api/values/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "transactionsapi",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/transactions/{id}"
+    },
+    {
+      "DownstreamPathTemplate": "/api/values",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "loggingapi",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/logging"
+    }
+  ],
+  "GlobalConfiguration": {
+    "UseServiceDiscovery": true,
+    "ServiceDiscoveryProvider": {
+      "Host": "eurekaserver",
+      "Port": "8761",
+      "Type": "Eureka"
+    }
+  }
+}

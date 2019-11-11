@@ -1,0 +1,14 @@
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\bin\Debug\netcoreapp2.2\Gateway.dll
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\bin\Debug\netcoreapp2.2\Gateway.deps.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\bin\Debug\netcoreapp2.2\Gateway.runtimeconfig.dev.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\bin\Debug\netcoreapp2.2\Gateway.pdb
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\obj\Debug\netcoreapp2.2\Gateway.csproj.CoreCompileInputs.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorAssemblyInfo.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorAssemblyInfo.cs
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfoInputs.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\obj\Debug\netcoreapp2.2\Gateway.AssemblyInfo.cs
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\obj\Debug\netcoreapp2.2\Gateway.RazorTargetAssemblyInfo.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\obj\Debug\netcoreapp2.2\Gateway.dll
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\obj\Debug\netcoreapp2.2\Gateway.pdb
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\Gateway\obj\Debug\netcoreapp2.2\Gateway.csprojAssemblyReference.cache

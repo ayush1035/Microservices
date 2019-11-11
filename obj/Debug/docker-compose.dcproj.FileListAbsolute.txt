@@ -1,0 +1,9 @@
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\bin\Debug\AccountAPI.dll
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\bin\Debug\Gateway.dll
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\bin\Debug\UserAPI.dll
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\bin\Debug\AccountAPI.pdb
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\bin\Debug\UserAPI.pdb
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\bin\Debug\Gateway.pdb
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\obj\Debug\docker-compose.dcproj.CopyComplete

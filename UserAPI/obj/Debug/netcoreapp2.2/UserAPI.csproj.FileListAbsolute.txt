@@ -1,0 +1,14 @@
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.deps.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.runtimeconfig.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.runtimeconfig.dev.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.dll
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\bin\Debug\netcoreapp2.2\UserAPI.pdb
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.csprojAssemblyReference.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.csproj.CoreCompileInputs.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.RazorAssemblyInfo.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.RazorAssemblyInfo.cs
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.AssemblyInfoInputs.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.AssemblyInfo.cs
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.RazorTargetAssemblyInfo.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.dll
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\UserAPI\obj\Debug\netcoreapp2.2\UserAPI.pdb

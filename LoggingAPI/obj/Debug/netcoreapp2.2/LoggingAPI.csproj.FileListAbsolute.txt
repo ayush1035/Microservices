@@ -1,0 +1,14 @@
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.csproj.CoreCompileInputs.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.AssemblyInfoInputs.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.AssemblyInfo.cs
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\bin\Debug\netcoreapp2.2\LoggingAPI.deps.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\bin\Debug\netcoreapp2.2\LoggingAPI.runtimeconfig.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\bin\Debug\netcoreapp2.2\LoggingAPI.runtimeconfig.dev.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\bin\Debug\netcoreapp2.2\LoggingAPI.dll
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.RazorAssemblyInfo.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.RazorAssemblyInfo.cs
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.RazorTargetAssemblyInfo.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\bin\Debug\netcoreapp2.2\LoggingAPI.pdb
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.csprojAssemblyReference.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.dll
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\LoggingAPI\obj\Debug\netcoreapp2.2\LoggingAPI.pdb

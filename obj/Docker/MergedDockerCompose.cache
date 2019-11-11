@@ -1,0 +1,102 @@
+services:
+  accountapi:
+    container_name: accountapi
+    depends_on:
+    - configserver
+    - eurekaserver
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '44355'
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    expose:
+    - '80'
+    hostname: accountapi
+    image: ayush1035/accountapi:latest
+    ports:
+    - published: 7002
+      target: 80
+    - published: 59353
+      target: 80
+    - published: 44355
+      target: 443
+    volumes:
+    - C:\Users\ayushjain\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\ayushjain\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+  configserver:
+    container_name: configserver
+    image: ayush1035/configserver:latest
+    ports:
+    - published: 8888
+      target: 8888
+  eurekaserver:
+    container_name: eurekaserver
+    image: ayush1035/eurekaserverimage:latest
+    ports:
+    - published: 8761
+      target: 8761
+  gateway:
+    container_name: gateway
+    depends_on:
+    - eurekaserver
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '44363'
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    expose:
+    - '80'
+    image: ayush1035/gateway:latest
+    ports:
+    - published: 7000
+      target: 80
+    - published: 59425
+      target: 80
+    - published: 44363
+      target: 443
+    volumes:
+    - C:\Users\ayushjain\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\ayushjain\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+  loggingapi:
+    container_name: loggingapi
+    depends_on:
+    - eurekaserver
+    expose:
+    - '80'
+    hostname: loggingapi
+    image: ayush1035/loggingapi:latest
+    ports:
+    - published: 7004
+      target: 80
+  transactionsapi:
+    container_name: transactionsapi
+    depends_on:
+    - eurekaserver
+    expose:
+    - '80'
+    hostname: transactionsapi
+    image: ayush1035/transactionsapi:latest
+    ports:
+    - published: 7003
+      target: 80
+  userapi:
+    container_name: userapi
+    depends_on:
+    - eurekaserver
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: '44392'
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    expose:
+    - '80'
+    hostname: userapi
+    image: ayush1035/userapi:latest
+    ports:
+    - published: 7001
+      target: 80
+    - published: 59384
+      target: 80
+    - published: 44392
+      target: 443
+    volumes:
+    - C:\Users\ayushjain\AppData\Roaming\ASP.NET\Https:/root/.aspnet/https:ro
+    - C:\Users\ayushjain\AppData\Roaming\Microsoft\UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

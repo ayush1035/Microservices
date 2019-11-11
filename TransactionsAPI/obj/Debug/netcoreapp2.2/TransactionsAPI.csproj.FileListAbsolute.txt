@@ -1,0 +1,14 @@
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\obj\Debug\netcoreapp2.2\TransactionsAPI.csproj.CoreCompileInputs.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\obj\Debug\netcoreapp2.2\TransactionsAPI.AssemblyInfoInputs.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\obj\Debug\netcoreapp2.2\TransactionsAPI.AssemblyInfo.cs
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\bin\Debug\netcoreapp2.2\TransactionsAPI.deps.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\bin\Debug\netcoreapp2.2\TransactionsAPI.runtimeconfig.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\bin\Debug\netcoreapp2.2\TransactionsAPI.runtimeconfig.dev.json
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\bin\Debug\netcoreapp2.2\TransactionsAPI.dll
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\obj\Debug\netcoreapp2.2\TransactionsAPI.csprojAssemblyReference.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\obj\Debug\netcoreapp2.2\TransactionsAPI.RazorAssemblyInfo.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\obj\Debug\netcoreapp2.2\TransactionsAPI.RazorAssemblyInfo.cs
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\obj\Debug\netcoreapp2.2\TransactionsAPI.RazorTargetAssemblyInfo.cache
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\bin\Debug\netcoreapp2.2\TransactionsAPI.pdb
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\obj\Debug\netcoreapp2.2\TransactionsAPI.dll
+D:\NAGP\Workshop 6\Assignment\NAGP\NAGP\TransactionsAPI\obj\Debug\netcoreapp2.2\TransactionsAPI.pdb
